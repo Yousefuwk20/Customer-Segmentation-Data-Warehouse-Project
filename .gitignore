@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data Files (optional - uncomment if data is too large)
+# raw_orders.json
+# *.parquet
+# *.csv
+
+# Logs
+*.log
+logs/
+
+# Spark
+metastore_db/
+derby.log
+spark-warehouse/
+
+# Hadoop/HDFS
+*.crc
+.snappy
+
+# Environment
+.env
+.venv
+
+# OS
+Thumbs.db
+.DS_Store
