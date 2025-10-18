@@ -74,7 +74,7 @@ Customer Segmentation & Data Warehouse Project/
 │   ├── Transformations.ipynb        # ETL pipeline & data warehouse creation
 │   └── KMeans_Model.ipynb           # RFM analysis & customer segmentation
 │
-├── Imgs/
+├── docs/
 │   ├── Star Schema.png              # Data warehouse schema diagram
 │   └── Database view.png            # Database visualization in Hive
 │
